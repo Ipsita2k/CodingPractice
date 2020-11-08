@@ -10,4 +10,3 @@
 nfile=input("enter the file name" )
 f_extns=nfile.split(".")
 print ("the extension of file is:" + repr(f_extns[-1]))
-print("Congratulations")
